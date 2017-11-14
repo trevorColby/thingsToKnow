@@ -7,3 +7,4 @@ do
 	echo "Currently empty bash script just using for practice and setup, does nothing at the moment"
 done
 # just checking
+#Checking nature of differences
