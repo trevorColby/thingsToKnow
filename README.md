@@ -1,2 +1,24 @@
-# thingsToKnow
-A general knowledge dump, includes rough notes, musings, and ideas from both myself and others.
+#### Trevor Colby
+#### OptiRTC R&D Intern
+#### 11/14/2017
+
+# Things To Know
+
+## A general knowledge dump, includes rough notes, musings, and ideas from both myself and others.
+
+### Each file within this repository is organized by topic
+
+#### Topics Include:
+	- Vim
+	- Tmux
+	- Developer/Hacker
+	- Linux
+	- Math
+	- Art
+	- Github
+	- Canada
+	- WebDevelopment
+	- General Computer Fun
+	- Vocabulary
+	- Entertainment
+
