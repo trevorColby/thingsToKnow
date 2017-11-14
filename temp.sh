@@ -1,4 +1,4 @@
-#Practice to check if rm and merging branches is consistent
+# This is weird behavior Practice to check if rm and merging branches is consistent
 #
 ##
 #
