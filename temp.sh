@@ -5,5 +5,6 @@ do
 	#touch $VARIABLE
 	#echo -e "$a*Trevor Colby*  \n*OptiRTC Intern*  \n*11/14/2017*  \n" >> $VARIABLE
 	echo "Currently empty bash script, does nothing at the moment"
+	#Line for practicing merge
 done
 
