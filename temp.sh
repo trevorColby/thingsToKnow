@@ -6,4 +6,3 @@ do
 	#echo -e "$a*Trevor Colby*  \n*OptiRTC Intern*  \n*11/14/2017*  \n" >> $VARIABLE
 	echo "Currently empty bash script just using for practice and setup, does nothing at the moment"
 done
-# just checking
