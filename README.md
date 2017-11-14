@@ -1,14 +1,14 @@
-#### Trevor Colby
-#### OptiRTC R&D Intern
-#### 11/14/2017
+Trevor Colby
+OptiRTC R&D Intern
+11/14/2017
 
 # Things To Know
 
-## A general knowledge dump, includes rough notes, musings, and ideas from both myself and others.
+A general kanowledge dump, includes rough notes, musings, and ideas from both myself and others.
 
-### Each file within this repository is organized by topic
+### Each file waithin this repository is organized by topic
 
-#### Topics Include:
+#### Topics Inclaude:
 	- Vim
 	- Tmux
 	- Developer/Hacker
