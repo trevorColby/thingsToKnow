@@ -3,6 +3,6 @@ for VARIABLE in "${Array[@]}"
 do
 	rm $VARIABLE
 	touch $VARIABLE
-	echo -e "$a*Trevor Colby*\n*OptiRTC Intern*\n*11/14/2017*\n" >> $VARIABLE
+	echo -e "$a*Trevor Colby*  \n*OptiRTC Intern*  \n*11/14/2017*  \n" >> $VARIABLE
 done
 
