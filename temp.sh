@@ -5,6 +5,6 @@ do
 	#rm $VARIABLE
 	#touch $VARIABLE
 	#echo -e "$a*Trevor Colby*  \n*OptiRTC Intern*  \n*11/14/2017*  \n" >> $VARIABLE
-	echo "Currently empty bash script just using for practice and setup, does nothing at the moment"
+	echo "Currently empty bash script final practice just using for practice and setup, does nothing at the moment"
 done
 
