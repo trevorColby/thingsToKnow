@@ -1,6 +1,6 @@
-*Trevor Colby*
-*OptiRTC R&D Intern*
-*11/14/2017*
+*Trevor Colby* 
+*OptiRTC R&D Intern* 
+*11/14/2017* 
 
 # Things To Know
 
